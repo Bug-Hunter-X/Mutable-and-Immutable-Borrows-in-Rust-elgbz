@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust related to mutable and immutable borrows. The `bug.rs` file contains code that attempts to borrow a value mutably and immutably simultaneously, resulting in a compile-time error. The `bugSolution.rs` file offers a corrected version.
